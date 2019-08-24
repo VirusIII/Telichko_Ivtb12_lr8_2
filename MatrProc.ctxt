@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=matr
+comment0.target=void\ putMatr(boolean[][])
+comment1.params=X\ n
+comment1.target=void\ putArr(boolean[],\ int)
+comment2.params=matr
+comment2.target=boolean[]\ matrToArr(boolean[][])
+comment3.params=matr
+comment3.target=double\ sumElMatr(double[][])
+comment4.params=m1\ m2
+comment4.target=boolean[][]\ sumTwoMatr(boolean[][],\ boolean[][])
+numComments=5
